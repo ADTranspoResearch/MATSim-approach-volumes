@@ -8,8 +8,8 @@ import pandas as pd
 
 
 # Filepaths.
-network_filepath = "matsim/output_network.xml.gz"
-event_filepath = "matsim/output_events.xml.gz"
+network_filepath = "matsim/example_network.xml.gz"
+event_filepath = "matsim/example_events.xml.gz"
 output_filepath = "outputs/"
 
 # Read network file and initialize a dataframe containing every link
